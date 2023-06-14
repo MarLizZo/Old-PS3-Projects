@@ -1,4 +1,4 @@
-<h1>GTAV-Mod-Loader-v2.4.3</h1>
+# GTAV-Mod-Loader-v2.4.3
 
 GTAV Mod Loader hand-written, not generated with automated tools.
 This was my last project of the PS3 era :')
