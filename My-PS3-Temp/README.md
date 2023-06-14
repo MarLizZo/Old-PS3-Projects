@@ -1,4 +1,4 @@
-# My-PS3-Temp
+<h1>My-PS3-Temp</h1>
 
 A Tool to manage the PS3 fan speed.
 
@@ -8,6 +8,4 @@ I also have included a system to alert you if the temperatures are too high. The
 
 The tool requires webMAN MOD installed on your PS3. It uses PS3Mapi to connect itself to the PS3.
 
-<center>
 <img src="https://www.lizsrv.altervista.org/image.php?di=OPOA" alt="My PS3 Temp v1.2" />
-</center>
