@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--List of Locations-->
+<Locations>
+  <Location Name="Michael's House" XCoord="-813.6030" YCoord="179.4738" ZCoord="72.1589"></Location>
+  <Location Name="Emergency HeliPad" XCoord="308.9238" YCoord="-1458.9330" ZCoord="46.5095"></Location>
+  <Location Name="FIB Building Roof" XCoord="135.5220" YCoord="-749.0009" ZCoord="266.6102"></Location>
+  <Location Name="FIB Building Inside" XCoord="135.5220" YCoord="-749.0009" ZCoord="260.0000"></Location>
+  <Location Name="IAA Building Roof" XCoord="130.6824" YCoord="-634.9446" ZCoord="262.8510"></Location>
+  <Location Name="IAA Building Inside" XCoord="113.9319" YCoord="-618.5334" ZCoord="206.0465"></Location>
+  <Location Name="Mount Chiliad" XCoord="495.0000" YCoord="5586.0000" ZCoord="794.0000"></Location>
+  <Location Name="Apartment" XCoord="-878.5444" YCoord="-445.3285" ZCoord="125.6352"></Location>
+  <Location Name="10 cars garage" XCoord="229.3570" YCoord="-992.9106" ZCoord="-98.9999"></Location>
+  <Location Name="HeliPad" XCoord="-736.7500" YCoord="-1437.7500" ZCoord="5.0003"></Location>
+  <Location Name="Under the bridge Glitch" XCoord="721.6599" YCoord="-1000.6510" ZCoord="23.5455"></Location>
+  <Location Name="Alta St apartment Enter" XCoord="-266.0524" YCoord="-968.6304" ZCoord="31.2243"></Location>
+  <Location Name="Police HeliPad" XCoord="369.4300" YCoord="-1601.8320" ZCoord="36.9502"></Location>
+  <Location Name="Police Parking Roof" XCoord="334.2101" YCoord="-1644.7660" ZCoord="98.4960"></Location>
+  <Location Name="400K Apartment Roof" XCoord="-769.8004" YCoord="331.2076" ZCoord="234.2694"></Location>
+  <Location Name="Air Port" XCoord="-1102.2910" YCoord="-2894.5160" ZCoord="13.9467"></Location>
+  <Location Name="Trevor's Office (Strip Club)" XCoord="97.2707" YCoord="-1290.9940" ZCoord="29.2688"></Location>
+  <Location Name="Trevor's Air Field" XCoord="1741.4960" YCoord="3269.2570" ZCoord="41.6014"></Location>
+  <Location Name="Trevor's House" XCoord="1974.7580" YCoord="3819.4570" ZCoord="33.4363"></Location>
+  <Location Name="Grapeseed Air Field" XCoord="2124.0330" YCoord="4800.5860" ZCoord="41.0031"></Location>
+  <Location Name="Fort Zacundo" XCoord="-2012.8470" YCoord="2956.5270" ZCoord="32.8101"></Location>
+  <Location Name="Franklin's House (New)" XCoord="7.4150" YCoord="535.5486" ZCoord="176.0279"></Location>
+  <Location Name="Franklin's House (OLD)" XCoord="-14.9693" YCoord="-1436.4430" ZCoord="31.1185"></Location>
+  <Location Name="Rooftop Rumble Drop off" XCoord="-1025.4400" YCoord="697.5500" ZCoord="161.7000"></Location>
+  <Location Name="Lester's House" XCoord="1248.1830" YCoord="-1728.1040" ZCoord="56.0000"></Location>
+  <Location Name="Trevor's Meth Lab" XCoord="1397.5240" YCoord="3607.4230" ZCoord="38.9419"></Location>
+  <Location Name="Humane Lab" XCoord="3617.2310" YCoord="3739.8710" ZCoord="28.6901"></Location>
+  <Location Name="Police Station" XCoord="441.2090" YCoord="-983.1136" ZCoord="30.6895"></Location>
+  <Location Name="FIB Roof Glitch" XCoord="135.9541" YCoord="-749.8984" ZCoord="258.1520"></Location>
+  <Location Name="Bank Vault" XCoord="255.5819" YCoord="217.6896" ZCoord="101.6834"></Location>
+  <Location Name="Blaine County Bank" XCoord="-104.2072" YCoord="6469.2650" ZCoord="31.6267"></Location>
+  <Location Name="Waynes Cousins House" XCoord="-1159.0340" YCoord="-1521.1800" ZCoord="10.6327"></Location>
+  <Location Name="Airport Terminal" XCoord="-1561.5250" YCoord="-3232.3460" ZCoord="26.3361"></Location>
+  <Location Name="Crane (1)" XCoord="-167.9822" YCoord="-1001.9265" ZCoord="296.2061"></Location>
+  <Location Name="Crane (2) Balcony" XCoord="-120.3508" YCoord="-977.8608" ZCoord="304.2478"></Location>
+  <Location Name="Crane 3 (Scenic)" XCoord="-119.859985" YCoord="-976.43866" ZCoord="306.3385"></Location>
+  <Location Name="Maze bank city Helipad" XCoord="-74.94243" YCoord="-818.63446" ZCoord="326.174347"></Location>
+  <Location Name="Maze Bank Helipad (works)" XCoord="-74.9424" YCoord="-818.63446" ZCoord="326.1743"></Location>
+  <Location Name="Ontop of Vinewood Logo (Auto Parachute Recieve)" XCoord="776.8780" YCoord="1175.6080" ZCoord="345.9564"></Location>
+  <Location Name="Mount Chiliad Jump" XCoord="430.2037" YCoord="5614.7340" ZCoord="766.1684"></Location>
+  <Location Name="Mount Chiliad Structure Skyline (Auto Parachute recieve)" XCoord="446.5404" YCoord="5571.6250" ZCoord="781.1896"></Location>
+  <Location Name="Mount Chiliad (Scenic View)" XCoord="413.4706" YCoord="5572.8210" ZCoord="779.6819"></Location>
+  <Location Name="Mount Chiliad - Ontop of House" XCoord="449.3493" YCoord="5568.5380" ZCoord="796.1312"></Location>
+  <Location Name="City Wall (Glitch)" XCoord="-254.9432" YCoord="-147.3534" ZCoord="42.7314"></Location>
+  <Location Name="Construction site on building" XCoord="-147.5930" YCoord="-964.6947" ZCoord="254.1325"></Location>
+  <Location Name="Far away beach" XCoord="178.3295" YCoord="7041.8220" ZCoord="1.8671"></Location>
+  <Location Name="Coral Reef" XCoord="106.6972" YCoord="7282.0550" ZCoord="1.8821"></Location>
+  <Location Name="Far end beach island with flowers" XCoord="-125.6544" YCoord="7271.8940" ZCoord="16.7366"></Location>
+  <Location Name="Far Island" XCoord="17.8323" YCoord="7630.0140" ZCoord="13.5068"></Location>
+  <Location Name="Underwater ocean" XCoord="103.4720" YCoord="7744.1870" ZCoord="-158.1106"></Location>
+  <Location Name="Dirtbike trail" XCoord="-1202.0910" YCoord="2802.4400" ZCoord="14.8256"></Location>
+  <Location Name="Zancudo river" XCoord="-558.9814" YCoord="2945.7010" ZCoord="14.5917"></Location>
+  <Location Name="Private Hangout(Creek)" XCoord="-463.6622" YCoord="4483.6540" ZCoord="36.0373"></Location>
+  <Location Name="Private hangout 2(Waterfall)" XCoord="-597.9525" YCoord="4475.2910" ZCoord="25.6890"></Location>
+  <Location Name="Creek swimming (Next to waterfall)" XCoord="-589.5320" YCoord="4395.3900" ZCoord="18.1481"></Location>
+  <Location Name="Ontop of Waterfall" XCoord="-540.4822" YCoord="4402.3590" ZCoord="34.3786"></Location>
+  <Location Name="Canyon Bridge/Tunnel/TrainTracks" XCoord="-530.6747" YCoord="4534.9960" ZCoord="89.0457"></Location>
+  <Location Name="Calafia Bridge (Near Canyon bridge) " XCoord="-175.2189" YCoord="4244.1940" ZCoord="44.0730"></Location>
+  <Location Name="Race" XCoord="-95.2472" YCoord="4250.5470" ZCoord="31.3630"></Location>
+  <Location Name="Bike race" XCoord="2124.5260" YCoord="1668.7090" ZCoord="96.2708"></Location>
+  <Location Name="Land Race" XCoord="2678.6920" YCoord="1341.6110" ZCoord="24.5118"></Location>
+  <Location Name="Parachuting" XCoord="496.2334" YCoord="5527.2700" ZCoord="778.4734"></Location>
+  <Location Name="Deathmatch" XCoord="138.1327" YCoord="-1448.6800" ZCoord="29.2240"></Location>
+  <Location Name="Team Deathmatch" XCoord="361.7499" YCoord="-1957.4250" ZCoord="24.6453"></Location>
+  <Location Name="Ponsonbys (Clothing)" XCoord="-159.2996" YCoord="-304.3292" ZCoord="39.7333"></Location>
+  <Location Name="Ammunation (Desert)" XCoord="1696.1050" YCoord="3755.1670" ZCoord="34.7053"></Location>
+  <Location Name="Ammunation City" XCoord="247.3652" YCoord="-45.8777" ZCoord="69.9411"></Location>
+  <Location Name="Car Wash" XCoord="53.9397" YCoord="-1390.7710" ZCoord="29.3734"></Location>
+  <Location Name="Underwater (Beach near City)" XCoord="-1952.1680" YCoord="-975.5703" ZCoord="-16.8390"></Location>
+  <Location Name="Humane Lab 2" XCoord="3531.7030" YCoord="3673.6420" ZCoord="28.1212"></Location>
+  <Location Name="Inside casino" XCoord="937.4756" YCoord="42.4248" ZCoord="80.8990"></Location>
+  <Location Name="Jet Spawn point 1" XCoord="-2019.0620" YCoord="2956.4530" ZCoord="32.8101"></Location>
+  <Location Name="Jet Spawn point 2" XCoord="-2148.3510" YCoord="3031.7620" ZCoord="32.8099"></Location>
+  <Location Name="Mors Mutual Impound" XCoord="-222.1977" YCoord="-1185.8500" ZCoord="23.0294"></Location>
+  <Location Name="Car Impound" XCoord="391.4746" YCoord="-1637.9750" ZCoord="29.3153"></Location>
+  <Location Name="Hospital Helipads" XCoord="322.0547" YCoord="-1448.0380" ZCoord="46.5095"></Location>
+  <Location Name="Kill Boost island" XCoord="-2177.4400" YCoord="5182.5960" ZCoord="16.4753"></Location>
+  <Location Name="Lookout" XCoord="-179.9843" YCoord="6150.4780" ZCoord="42.6373"></Location>
+  <Location Name="Behind bar in strip club" XCoord="126.1211" YCoord="-1278.5130" ZCoord="29.2696"></Location>
+  <Location Name="EMPTY CLOSED IN ROOM (Strip Club)" XCoord="134.1213" YCoord="-1289.5810" ZCoord="29.2696"></Location>
+  <Location Name="Inside Gun range" XCoord="22.8730" YCoord="-1073.8800" ZCoord="29.7970"></Location>
+  <Location Name="Ammunation Office" XCoord="12.4553" YCoord="-1110.2580" ZCoord="29.7970"></Location>
+  <Location Name="HIGH IN THE SKY!!!!" XCoord="-129.9640" YCoord="8130.8730" ZCoord="6705.6510"></Location>
+  <Location Name="Just Above the Clouds" XCoord="-149.3451" YCoord="7130.2460" ZCoord="700.1167"></Location>
+  <Location Name="Underground tunnel" XCoord="16.9691" YCoord="-646.1804" ZCoord="16.0881"></Location>
+  <Location Name="Tunnel Loop" XCoord="-4.5786" YCoord="-742.4279" ZCoord="16.5030"></Location>
+  <Location Name="Tunnel exit" XCoord="1033.7290" YCoord="-270.5642" ZCoord="50.8552"></Location>
+  <Location Name="In the Sky (Maze Bank Helipad)" XCoord="-74.3454" YCoord="-821.6638" ZCoord="2590.2230"></Location>
+  <Location Name="Above Clouds (Maze Bank Helipad)" XCoord="-73.4489" YCoord="-833.5170" ZCoord="5841.4240"></Location>
+  <Location Name="In the Atmosphee (Above Maze Bank)" XCoord="-65.4903" YCoord="-873.2886" ZCoord="12858.2100"></Location>
+  <Location Name="400k Garage (Outside)" XCoord="-795.4600" YCoord="308.8900" ZCoord="85.7100"></Location>
+  <Location Name="400k Apartment (Outside)" XCoord="-775.0500" YCoord="312.3200" ZCoord="85.7000"></Location>
+  <Location Name="I don't know where" XCoord="-1907.3500" YCoord="-577.2352" ZCoord="20.1223"></Location>
+  <Location Name="On top of Light house" XCoord="3433.6570" YCoord="5175.4090" ZCoord="35.8053"></Location>
+  <Location Name="Water Fountain" XCoord="-104.8196" YCoord="-856.3741" ZCoord="41.0868"></Location>
+  <Location Name="Water fountain with cube" XCoord="-131.0631" YCoord="-865.8098" ZCoord="29.4677"></Location>
+  <Location Name="Inside Jonny Tung" XCoord="-879.0649" YCoord="-247.7447" ZCoord="40.1937"></Location>
+  <Location Name="Vesupucci House Glitch" XCoord="-976.0147" YCoord="-1003.8430" ZCoord="2.1502"></Location>
+  <Location Name="GO Postal" XCoord="78.9777" YCoord="113.4168" ZCoord="81.1687"></Location>
+  <Location Name="GO Postal 2" XCoord="67.4079" YCoord="123.5255" ZCoord="86.1291"></Location>
+  <Location Name="Under Roof" XCoord="-1883.7390" YCoord="2062.8590" ZCoord="144.8217"></Location>
+  <Location Name="HeliPad" XCoord="-736.7500" YCoord="-1437.7500" ZCoord="5.0003"></Location>
+  <Location Name="Trevor's House" XCoord="1974.7580" YCoord="3819.4570" ZCoord="33.4363"></Location>
+  <Location Name="Trevor's Office (Strip Club)" XCoord="97.2707" YCoord="-1290.9940" ZCoord="29.2688"></Location>
+  <Location Name="Trevor's Meth Lab" XCoord="1397.5240" YCoord="3607.4230" ZCoord="38.9419"></Location>
+  <Location Name="RockfordHill" XCoord="-869.2877" YCoord="-250.0446" ZCoord="39.7795"></Location>
+  <Location Name="PaletoBay Shed" XCoord="-179.0000" YCoord="6150.0000" ZCoord="42.0000"></Location>
+  <Location Name="Luxury Auto" XCoord="-783.1708" YCoord="-246.4606" ZCoord="37.0212"></Location>
+  <Location Name="DelPerroPier" XCoord="-1600.0930" YCoord="-1041.8920" ZCoord="13.0209"></Location>
+  <Location Name="Middle of Ferris Wheel" XCoord="-1664.1670" YCoord="-1126.5330" ZCoord="32.1513"></Location>
+  <Location Name="Cherry Popper Stand" XCoord="-1645.5460" YCoord="-1102.3670" ZCoord="13.4518"></Location>
+  <Location Name="Cherry Popper 2" XCoord="-1685.9830" YCoord="-1104.1350" ZCoord="13.1523"></Location>
+  <Location Name="Miltary Base Tower" XCoord="-2501.9390" YCoord="3309.8980" ZCoord="91.9665"></Location>
+  <Location Name="Mount Chiliad City view" XCoord="489.3171" YCoord="5580.8870" ZCoord="792.8515"></Location>
+  <Location Name="Franklins Bedroom" XCoord="2.6014" YCoord="525.5179" ZCoord="170.6172"></Location>
+  <Location Name="Building Wireframe" XCoord="-129.3836" YCoord="-951.1331" ZCoord="218.8816"></Location>
+  <Location Name="Mechanic Glitch" XCoord="546.0365" YCoord="-183.3675" ZCoord="54.4982"></Location>
+  <Location Name="Cannibal Mountain top" XCoord="-935.9363" YCoord="4836.7470" ZCoord="310.5199"></Location>
+  <Location Name="Underwater Hotspot (For Underwater Car)" XCoord="-2183.0350" YCoord="-1051.0040" ZCoord="-143.7705"></Location>
+  <Location Name="Coral Reef 2 (Underwater  Car)" XCoord="-1942.3540" YCoord="-1128.5290" ZCoord="-34.9933"></Location>
+  <Location Name="Under ocean Glitch with Car" XCoord="-2433.3870" YCoord="-1332.6030" ZCoord="-207.4861"></Location>
+  <Location Name="Apartment wall (Use to get weapons back)" XCoord="220.5997" YCoord="-1006.7580" ZCoord="-98.9999"></Location>
+  <Location Name="Land Act Dam" XCoord="1655.8130" YCoord="0.8890" ZCoord="173.7747"></Location>
+  <Location Name="Fort building near dam" XCoord="1663.3610" YCoord="-27.3975" ZCoord="173.7747"></Location>
+  <Location Name="Jetski pier" XCoord="-1624.1540" YCoord="-1165.0890" ZCoord="2.0955"></Location>
+  <Location Name="Jetski stop in wilderness" XCoord="-520.7121" YCoord="4393.5450" ZCoord="30.0005"></Location>
+  <Location Name="Garage (second room)" XCoord="222.5924" YCoord="-968.1003" ZCoord="-98.9999"></Location>
+  <Location Name="Humane Lab (Waterbody)" XCoord="3524.0700" YCoord="3711.9500" ZCoord="20.9913"></Location>
+  <Location Name="Garage car tools" XCoord="211.2500" YCoord="-962.7500" ZCoord="24.9667"></Location>
+  <Location Name="Mountain Creek (Swimming)" XCoord="2570.9470" YCoord="6160.3670" ZCoord="159.8116"></Location>
+  <Location Name="Mountain Creek (Swimming)" XCoord="2556.2730" YCoord="6177.1620" ZCoord="162.7519"></Location>
+  <Location Name="Street for Racing/running at TOP SPEED" XCoord="643.3242" YCoord="-387.0789" ZCoord="42.6857"></Location>
+  <Location Name="Los santos Customs roof (1)" XCoord="-354.8817" YCoord="-150.8228" ZCoord="74.2741"></Location>
+  <Location Name="Track" XCoord="1226.7500" YCoord="125.5000" ZCoord="81.8394"></Location>
+  <Location Name="Jetski Drop off Side" XCoord="-2148.3510" YCoord="3031.7620" ZCoord="32.8099"></Location>
+  <Location Name="Jet ski drop off (Park)" XCoord="-588.2509" YCoord="4397.5080" ZCoord="17.3983"></Location>
+  <Location Name="Creek Mountain top" XCoord="2495.1270" YCoord="6196.1400" ZCoord="202.5408"></Location>
+  <Location Name="Mountain Creek (Parking)" XCoord="2559.2640" YCoord="6184.1520" ZCoord="162.7809"></Location>
+  <Location Name="Paleto Cove" XCoord="-1441.6340" YCoord="5410.9190" ZCoord="24.5786"></Location>
+  <Location Name="Under Parking Garage (Glitch)" XCoord="-359.4955" YCoord="-781.3347" ZCoord="31.7852"></Location>
+  <Location Name="Vinewood Garage (Storymode)" XCoord="-66.8998" YCoord="81.6470" ZCoord="71.5300"></Location>
+  <Location Name="Private Garage" XCoord="3601.3830" YCoord="3668.7930" ZCoord="33.8718"></Location>
+  <Location Name="Underwater Hangout 3" XCoord="4416.1050" YCoord="3455.1340" ZCoord="-143.5237"></Location>
+  <Location Name="Roof (Scenic View)" XCoord="-118.8224" YCoord="-195.4712" ZCoord="94.8497"></Location>
+  <Location Name="Crop field" XCoord="270.5400" YCoord="6614.4430" ZCoord="29.8416"></Location>
+  <Location Name="Another Bridge Glitch" XCoord="-615.2986" YCoord="-577.6776" ZCoord="30.6693"></Location>
+  <Location Name="Mount Josiah" XCoord="-1186.1070" YCoord="3849.7530" ZCoord="489.0641"></Location>
+  <Location Name="Theatre Balcony" XCoord="335.4643" YCoord="170.8678" ZCoord="111.4973"></Location>
+  <Location Name="Deep Ocean (Stuck Glitch)" XCoord="4499.9470" YCoord="-3946.6510" ZCoord="-100016.9000"></Location>
+  <Location Name="BuildingTop/ledge  (Scenic)" XCoord="201.9763" YCoord="-567.6195" ZCoord="131.6675"></Location>
+  <Location Name="Far End Island 2" XCoord="25.8621" YCoord="7676.7680" ZCoord="1.5832"></Location>
+  <Location Name="Hidden Garage (No Enter/Exit)" XCoord="-20.4297" YCoord="-685.1064" ZCoord="32.3381"></Location>
+  <Location Name="Unknown Building Glitch" XCoord="-11.5143" YCoord="-691.2623" ZCoord="54.7947"></Location>
+  <Location Name="Location for Deer (Custom Model Change)" XCoord="159.1143" YCoord="3226.0780" ZCoord="40.9329"></Location>
+  <Location Name="Inside random building" XCoord="-278.6654" YCoord="6185.8690" ZCoord="31.4861"></Location>
+  <Location Name="Beach Blazer location" XCoord="-1595.6490" YCoord="-1128.0870" ZCoord="1.8322"></Location>
+  <Location Name="rooftop brawl" XCoord="-149.7626" YCoord="-943.4242" ZCoord="254.0494"></Location>
+  <Location Name="Wall Glitch" XCoord="-134.4927" YCoord="-667.1520" ZCoord="36.1778"></Location>
+  <Location Name="Wall Glitch" XCoord="-135.0291" YCoord="-668.5015" ZCoord="35.0691"></Location>
+  <Location Name="For Zancudo (Inside Tower)" XCoord="-2356.0940" YCoord="3248.6450" ZCoord="101.4505"></Location>
+  <Location Name="Elysian Island Base" XCoord="574.3914" YCoord="-3121.3220" ZCoord="18.7687"></Location>
+  <Location Name="Prison" XCoord="1679.0490" YCoord="2513.7110" ZCoord="45.5649"></Location>
+  <Location Name="Prison Gym" XCoord="1640.7910" YCoord="2530.0440" ZCoord="45.5649"></Location>
+  <Location Name="Trapped in box lol" XCoord="-655.6762" YCoord="-160.8557" ZCoord="42.1480"></Location>
+  <Location Name="Maze Bank (Hanging)" XCoord="-74.8831" YCoord="-837.6084" ZCoord="319.8760"></Location>
+  <Location Name="Underneath Map swim" XCoord="-1157.4180" YCoord="-2035.0330" ZCoord="0.1249"></Location>
+  <Location Name="Highway for Running" XCoord="1308.4600" YCoord="590.7094" ZCoord="80.2411"></Location>
+  <Location Name="Horses Head" XCoord="-690.9756" YCoord="-243.3482" ZCoord="45.8285"></Location>
+  <Location Name="Tongva Valley" XCoord="-1523.1900" YCoord="1494.3620" ZCoord="111.5874"></Location>
+  <Location Name="Pretty Hill" XCoord="-2130.4500" YCoord="-101.4395" ZCoord="46.5871"></Location>
+  <Location Name="Mount Gordo" XCoord="2948.4480" YCoord="5323.8120" ZCoord="101.1872"></Location>
+  <Location Name="Underground Construction Site " XCoord="36.7640" YCoord="-639.7841" ZCoord="16.0831"></Location>
+  <Location Name="Shower" XCoord="-796.9383" YCoord="333.7209" ZCoord="210.8338"></Location>
+  <Location Name="Garage" XCoord="222.5423" YCoord="-999.8375" ZCoord="-99.0000"></Location>
+  <Location Name="Prison Tower" XCoord="1541.6290" YCoord="2470.1400" ZCoord="62.8751"></Location>
+  <Location Name="Behind sewer gate" XCoord="1234.4590" YCoord="-1080.1000" ZCoord="31.1570"></Location>
+  <Location Name="Another pool" XCoord="-1197.1560" YCoord="-246.1534" ZCoord="37.9545"></Location>
+  <Location Name="Ghost Mountain" XCoord="3056.7250" YCoord="5622.6430" ZCoord="205.2412"></Location>
+  <Location Name="Cave" XCoord="-1909.6820" YCoord="1389.1480" ZCoord="218.4604"></Location>
+  <Location Name="MogShot Stand" XCoord="-1641.5500" YCoord="-1097.6340" ZCoord="13.4500"></Location>
+  <Location Name="MogShots 2" XCoord="-1682.1570" YCoord="-1107.2580" ZCoord="13.1523"></Location>
+  <Location Name="Gifts at the pier" XCoord="-1639.9170" YCoord="-1092.0860" ZCoord="13.5766"></Location>
+  <Location Name="Gifts at the pier 2" XCoord="-1678.2000" YCoord="-1110.5410" ZCoord="13.1523"></Location>
+  <Location Name="The Oriental TS(L)" XCoord="282.2156" YCoord="199.8016" ZCoord="104.3740"></Location>
+  <Location Name="The Oriental TS(R)" XCoord="314.1337"  YCoord="188.3539" ZCoord="103.9276"></Location>
+  <Location Name="IOU Tower" XCoord="-866.4975" YCoord="-251.8129" ZCoord="40.1102"></Location>
+  <Location Name="Under the bridge Glitch" XCoord="721.6599" YCoord="-1000.6510" ZCoord="23.5455"></Location>
+  <Location Name="400 Appart glitch" XCoord="-785.4869" YCoord="314.7161" ZCoord="90.2189"></Location>
+  <Location Name="CypressFlatt" XCoord="895.5247" YCoord="-2301.5640" ZCoord="30.3838"></Location>
+  <Location Name="Cannibal Camp" XCoord="-1170.1150" YCoord="4926.1340" ZCoord="224.3552"></Location>
+  <Location Name="Cannibal Camp roof" XCoord="-1143.1450" YCoord="4951.1880" ZCoord="230.1531"></Location>
+  <Location Name="Building GLitch" XCoord="-91.6870" YCoord="33.0948" ZCoord="71.4655"></Location>
+  <Location Name="Dock (Near Lighthouse)" XCoord="3369.2240" YCoord="5184.1500" ZCoord="1.4602"></Location>
+  <Location Name="Winding stairs" XCoord="3336.1740" YCoord="5172.9410" ZCoord="18.3161"></Location>
+  <Location Name="Creek (Mountain Tower)" XCoord="2784.6060" YCoord="6000.8770" ZCoord="357.2007"></Location>
+  <Location Name="Pool" XCoord="-17.1920" YCoord="340.4356" ZCoord="111.3410"></Location>
+  <Location Name="Building wall glitch" XCoord="-224.9551" YCoord="-79.6451" ZCoord="80.0779"></Location>
+  <Location Name="End Island" XCoord="33.7559" YCoord="7692.7370" ZCoord="2.5786"></Location>
+  <Location Name="Yankton under bank" XCoord="5299.2220" YCoord="-5215.6410" ZCoord="1.4821"></Location>
+  <Location Name="Yankton Farm house" XCoord="3547.1920" YCoord="-4675.1490" ZCoord="114.1681"></Location>
+  <Location Name="Yankton Ontop of Mill" XCoord="3517.0790" YCoord="-4635.8300" ZCoord="138.9008"></Location>
+  <Location Name="Inside Store" XCoord="-1244.1380" YCoord="-1454.9980" ZCoord="4.3478"></Location>
+  <Location Name="Humane Lab (Tunnel)" XCoord="3536.0230" YCoord="3740.3400" ZCoord="-8.8625"></Location>
+  <Location Name="Human Lab (Deep)" XCoord="3628.0100" YCoord="3748.2720" ZCoord="-16.3557"></Location>
+  <Location Name="HumaneLab (Waterbody Gate)" XCoord="3832.7640" YCoord="3664.6720" ZCoord="-22.0971"></Location>
+  <Location Name="Humane Lab (Tunnel Outside)" XCoord="3832.4630" YCoord="3667.1820" ZCoord="-21.6457"></Location>
+  <Location Name="Hidden beach" XCoord="3852.0770" YCoord="3625.5670" ZCoord="9.2139"></Location>
+  <Location Name="Fort pier (near dam)" XCoord="1693.2610" YCoord="44.3380" ZCoord="161.7688"></Location>
+  <Location Name="Fort (Water Body) - Good forJetskiing" XCoord="1720.9520" YCoord="33.9373" ZCoord="159.7463"></Location>
+  <Location Name="Submarine Location?" XCoord="-1606.2000" YCoord="5266.9700" ZCoord="-1.4726"></Location>
+  <Location Name="Punpkin Patch" XCoord="3285.2290" YCoord="5183.5380" ZCoord="18.4154"></Location>
+  <Location Name="UnderGround Construction working (test)" XCoord="-16.2716" YCoord="-593.1695" ZCoord="17.9195"></Location>
+  <Location Name="Trapped in steel" XCoord="149.4357" YCoord="-769.7214" ZCoord="262.8629"></Location>
