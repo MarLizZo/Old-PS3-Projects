@@ -1,0 +1,231 @@
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\LezZo BO2 Extreme Tool xNew.exe.config
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\LezZo BO2 Extreme Tool xNew.exe
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\LezZo BO2 Extreme Tool xNew.pdb
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.BonusSkins.v16.2.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.Data.v16.2.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.Utils.v16.2.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.XtraBars.v16.2.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.XtraNavBar.v16.2.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.Data.v16.2.xml
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.Utils.v16.2.xml
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.XtraBars.v16.2.xml
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.XtraNavBar.v16.2.xml
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\de\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\es\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ja\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ru\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo BO2 Extreme Tool xNew.csprojResolveAssemblyReference.cache
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.Form1.resources
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.Properties.Resources.resources
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo BO2 Extreme Tool xNew.csproj.GenerateResource.Cache
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo BO2 Extreme Tool xNew.exe.licenses
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo BO2 Extreme Tool xNew.exe
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo BO2 Extreme Tool xNew.pdb
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.ModMenuManager.ModMenu.resources
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.UpdateForm.resources
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.FormSplashScreen.resources
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.ImageInjector.ImgInj.resources
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.WaitForm1.resources
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.ImageInjector.ImgSplash.resources
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\PS3TMAPI_NET.dll
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.ImageInjector.WaitForm2.resources
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\LezZo BO2 Extreme Tool xNew.exe.manifest
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\LezZo BO2 Extreme Tool xNew.application
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo BO2 Extreme Tool xNew.exe.manifest
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo BO2 Extreme Tool xNew.application
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.EBOOT_Builder.EB_Bl.resources
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.EBOOT_Builder.Selector.resources
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.EBOOT_Builder.EB_BLSplash.resources
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.ModMenuManager.ModSplash.resources
+C:\Users\LizZo\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.ModMenuManager.FTPConnect.resources
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\LezZo BO2 Extreme Tool xNew.exe.config
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo BO2 Extreme Tool xNew.exe
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo BO2 Extreme Tool xNew.pdb
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo BO2 Extreme Tool xNew.csprojResolveAssemblyReference.cache
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.EBOOT_Builder.EB_Bl.resources
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.EBOOT_Builder.EB_BLSplash.resources
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.EBOOT_Builder.Selector.resources
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.Form1.resources
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.FormSplashScreen.resources
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.ImageInjector.ImgInj.resources
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.ImageInjector.ImgSplash.resources
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.ImageInjector.WaitForm2.resources
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.ModMenuManager.FTPConnect.resources
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.ModMenuManager.ModMenu.resources
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.ModMenuManager.ModSplash.resources
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.Properties.Resources.resources
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.UpdateForm.resources
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.WaitForm1.resources
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo BO2 Extreme Tool xNew.csproj.GenerateResource.Cache
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo BO2 Extreme Tool xNew.exe.licenses
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\LezZo BO2 Extreme Tool xNew.exe.manifest
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\LezZo BO2 Extreme Tool xNew.application
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\LezZo BO2 Extreme Tool xNew.exe
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\LezZo BO2 Extreme Tool xNew.pdb
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.BonusSkins.v16.2.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.Data.v16.2.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.Utils.v16.2.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.XtraBars.v16.2.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.XtraNavBar.v16.2.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\PS3Lib.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\PS3TMAPI_NET.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.Data.v16.2.xml
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.Utils.v16.2.xml
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.XtraBars.v16.2.xml
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.XtraNavBar.v16.2.xml
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\de\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\es\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ja\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ru\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo BO2 Extreme Tool xNew.exe.manifest
+C:\Users\DioPL\Desktop\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo BO2 Extreme Tool xNew.application
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo BO2 Extreme Tool xNew.csprojResolveAssemblyReference.cache
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.EBOOT_Builder.EB_Bl.resources
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.EBOOT_Builder.EB_BLSplash.resources
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.EBOOT_Builder.Selector.resources
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.Form1.resources
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.FormSplashScreen.resources
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.ImageInjector.ImgInj.resources
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.ImageInjector.ImgSplash.resources
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.ImageInjector.WaitForm2.resources
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.ModMenuManager.FTPConnect.resources
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.ModMenuManager.ModMenu.resources
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.ModMenuManager.ModSplash.resources
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.Properties.Resources.resources
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.UpdateForm.resources
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo_BO2_Extreme_Tool_xNew.WaitForm1.resources
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo BO2 Extreme Tool xNew.csproj.GenerateResource.Cache
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.BonusSkins.v16.2.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.Data.v16.2.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.Utils.v16.2.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.XtraBars.v16.2.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.XtraNavBar.v16.2.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\PS3Lib.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\PS3TMAPI_NET.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.Data.v16.2.xml
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.Utils.v16.2.xml
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.XtraBars.v16.2.xml
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.XtraNavBar.v16.2.xml
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\de\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\es\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ja\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ru\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\LezZo BO2 Extreme Tool.exe.config
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\LezZo BO2 Extreme Tool.exe.manifest
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\LezZo BO2 Extreme Tool.application
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\LezZo BO2 Extreme Tool.exe
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\bin\Debug\LezZo BO2 Extreme Tool.pdb
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo BO2 Extreme Tool.exe.licenses
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo BO2 Extreme Tool.TrustInfo.xml
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo BO2 Extreme Tool.exe.manifest
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo BO2 Extreme Tool.application
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo BO2 Extreme Tool.exe
+C:\Users\marko\OneDrive\Documenti\PS3 Projects\LezZo BO2 Extreme Tool xNew\LezZo BO2 Extreme Tool xNew\obj\Debug\LezZo BO2 Extreme Tool.pdb
